@@ -1,11 +1,11 @@
-# 🎮 Shadow Byte: Escape do Subterrâneo
+# 🎮 Shadow Byte
 
 Protótipo de jogo em **Python** usando **Pygame Zero**.  
 O projeto ainda está inacabado, mas já possui menu interativo, movimentação, colisões, inimigos e diferentes estados de jogo. Foi desenvolvido como exercício de prática em lógica, animações e estrutura de jogos.
 
 > 🚨|
 > _O projeto foi **descontinuado** e não receberá novas atualizações._
-> O repositório **não contém os arquivos de assets** (imagens e sons), apenas o código-fonte.
+> O repositório **não contém os arquivos de assets** (imagens e sons) oficiais, só os utilizados para testes.
 
 
 ### Funcionalidades
