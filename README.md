@@ -20,7 +20,7 @@ O projeto ainda está inacabado, mas já possui menu interativo, movimentação,
 
 ### 🛠️ Tecnologias utilizadas
 - Python 3  
-- [Pygame Zero](https://pygame-zero.readthedocs.io/)  
+- Pygame Zero  
 - Pygame  
 
 ### Autor
