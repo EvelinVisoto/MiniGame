@@ -8,7 +8,7 @@ O projeto ainda está inacabado, mas já possui menu interativo, movimentação,
 > O repositório **não contém os arquivos de assets** (imagens e sons), apenas o código-fonte.
 
 
-### 🚀 Funcionalidades
+### Funcionalidades
 - Menu com botões interativos (Iniciar, Som e Sair)  
 - Controle do personagem (andar, pular e animações)  
 - Plataformas com colisão  
@@ -18,7 +18,7 @@ O projeto ainda está inacabado, mas já possui menu interativo, movimentação,
 
 
 
-### 🛠️ Tecnologias utilizadas
+### Tecnologias utilizadas
 - Python 3  
 - Pygame Zero  
 - Pygame  
